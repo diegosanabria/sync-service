@@ -1,2 +1,2 @@
 # sync-service
-Syncronization service.
+Syncronization service..
